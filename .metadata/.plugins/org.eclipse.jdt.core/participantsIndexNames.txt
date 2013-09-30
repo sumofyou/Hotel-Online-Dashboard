@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+D:\javawork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3735576459.index
+\tutorial\src\main\resources
+D:\javawork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\622669562.index
+\tutorial\src\main\resources
